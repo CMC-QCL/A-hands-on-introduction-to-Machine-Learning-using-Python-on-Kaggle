@@ -5,5 +5,8 @@ The workshop series is designed with a focus on the practical aspects of machine
 
 The two session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools and concepts quickly and learn how to find resources to explore further.
 
-## Instructors: Aashita Kesarwani (HMC)
-## Teaching Assistant: Jeho Park (CMC), Lan Phan (CMC), Bruno Youn (CMC)
+## Instructor: 
+Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)
+
+## Teaching Assistants: 
+Jeho Park (CMC, QCL Director), Lan Phan (CMC '19), Bruno Youn (CMC '19)
