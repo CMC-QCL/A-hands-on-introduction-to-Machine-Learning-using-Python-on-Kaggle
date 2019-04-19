@@ -10,8 +10,9 @@ Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)
 Jeho Park (CMC, QCL Director), Lan Phan (CMC '19), Bruno Youn (CMC '19)
 
 ## Registration
-Part 1: [Friday, April 26th from 1:30 PM to 3:30 PM](https://intro-to-ml-kaggle-part1.eventbrite.com/)
-Part 2: [Friday, May 3rd from 1:30 PM to 3:30 PM](https://intro-to-ml-kaggle-part2.eventbrite.com/)
+- Part 1: [Friday, April 26th from 1:30 PM to 3:30 PM](https://intro-to-ml-kaggle-part1.eventbrite.com/)
+- Part 2: [Friday, May 3rd from 1:30 PM to 3:30 PM](https://intro-to-ml-kaggle-part2.eventbrite.com/)
+We recommend you to register for both workshops as they are designed to cover different topics.  Part 1 workshop will cover the basics of data manipulations with more hands-on than part 2. Part 2 will be more on machine learning techniques with less hands-on but more presentation than part 1.
 
 ## Workshop Topics
 See [Machine Learning workshop series at Harvey Mudd College](http://www.aashitak.com/ML-Workshops/) for more information. This 2-day workshop will be a condensed version of the original HMC workshop.
