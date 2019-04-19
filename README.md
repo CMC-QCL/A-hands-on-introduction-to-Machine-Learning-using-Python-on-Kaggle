@@ -1,9 +1,9 @@
 # [QCL Workshop] A hands-on introduction to Machine Learning using Python on Kaggle
 
 ## Introduction:
-The workshop series is designed with a focus on the practical aspects of machine learning. We will be working in Python and using real-world datasets from Kaggle, the machine learning platform most suited for the “learn-by-doing” philosophy. The series is targeted towards complete beginners familiar with Python, but it is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools.
+The workshop series is designed with a focus on the practical aspects of machine learning. We will be working in Python and using real-world datasets from [Kaggle](https://www.kaggle.com/), the machine learning platform most suited for the “learn-by-doing” philosophy. This hands-on series is targeted towards complete beginners familiar with Python and will cover the minimal but most useful tools and concepts to get you started to work on a data science project. In the first session, we will explore a couple datasets from [Kaggle](https://www.kaggle.com/) and practise feature engineering using `pandas`. In the second session, we will learn the classification and regression algorithms along with other important concepts of practical use in machine learning and train models using `scikit-learn` for the dataset from the previous session.
 
-The two session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools and concepts quickly and learn how to find resources to explore further.
+This series is a condensed version of the previous four-session [Machine Learning workshop series at Harvey Mudd College](http://www.aashitak.com/ML-Workshops/) by the same instructor. 
 
 ## Instructor: 
 Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)
