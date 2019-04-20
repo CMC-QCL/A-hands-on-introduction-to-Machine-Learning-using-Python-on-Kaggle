@@ -23,19 +23,19 @@ See [Machine Learning workshop series at Harvey Mudd College](http://www.aashita
 ## FAQ
 
 Q: Should I register for both part 1 and part 2 workshops?  
->> We recommend you to attend both workshops. Part 1 workshop will be more hands-on and cover the data exploration, data manipulation, and feature engineering using pandas. It is a precursor to Part 2 that will cover machine learning concepts along with model building using scikit-learn.
+> We recommend you to attend both workshops. Part 1 workshop will be more hands-on and cover the data exploration, data manipulation, and feature engineering using `pandas`. It is a precursor to Part 2 that will cover machine learning concepts along with model building using `scikit-learn`.
 
 Q: Should I bring my own laptop? 
->> For CMC fork: No, you don’t have to. RN12 has over 50 Windows computers and you can log in the computers using your CMC credential. For non-CMC forks, yes, you should bring your laptop. We can also provide a loaner laptop if you need one.
+> For CMC fork: No, you don’t have to. RN12 has over 50 Windows computers and you can log in the computers using your CMC credential. For non-CMC forks, yes, you should bring your laptop. We can also provide a loaner laptop if you need one.
 
 Q: How can I cancel my ticket?
->> Your confirmation ticket email has a link, “View and manage your order online.” Follow that link and cancel your ticket.
+> Your confirmation ticket email has a link, “View and manage your order online.” Follow that link and cancel your ticket.
 
 Q: Should I be affiliated with CMC? 
->> Yes. The workshops will also be open to all Claremont Colleges if there’s more seats left.
+> Yes. The workshops will also be open to all Claremont Colleges if there’s more seats left.
 
 Q: What is Kaggle?
->> Kaggle is a cloud platform for data science and machine learning community. Competitions, data sets, and computing resources are available for free. Check it out -- [Kaggle website](http://www.kaggle.com).
+> Kaggle is a cloud platform for data science and machine learning community. Competitions, data sets, and computing resources are available for free. Check it out -- [Kaggle website](http://www.kaggle.com).
 
 Q: Where can I get the topics, data, and Python files for the workshops?
->> The workshop topics, data and files will be available on [A hands on introduction to Machine Learning using Python on Kaggle before the workshop](https://github.com/CMC-QCL/A-hands-on-introduction-to-Machine-Learning-using-Python-on-Kaggle).
+> The workshop topics, data and files will be available on [A hands on introduction to Machine Learning using Python on Kaggle before the workshop](https://github.com/CMC-QCL/A-hands-on-introduction-to-Machine-Learning-using-Python-on-Kaggle).
