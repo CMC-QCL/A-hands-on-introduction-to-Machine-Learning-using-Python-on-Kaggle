@@ -32,7 +32,7 @@ Q: How can I cancel my ticket?
 > Your confirmation ticket email has a link, “View and manage your order online.” Follow that link and cancel your ticket.
 
 Q: Should I be affiliated with CMC? 
-> Yes. The workshops will also be open to all Claremont Colleges if there’s more seats left.
+> Yes. The workshops will also be open to all Claremont Colleges if there are more seats left.
 
 Q: What is Kaggle?
 > Kaggle is a cloud platform for data science and machine learning community. Competitions, data sets, and computing resources are available for free. Check it out -- [Kaggle website](http://www.kaggle.com).
