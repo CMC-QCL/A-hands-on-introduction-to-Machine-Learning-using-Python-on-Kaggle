@@ -4,10 +4,11 @@ The workshop series is designed with a focus on the practical aspects of machine
 This series is a condensed version of the previous four-session [Machine Learning workshop series at Harvey Mudd College](http://www.aashitak.com/ML-Workshops/) by the same instructor. 
 
 ## Instructor: 
-Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)
+Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)   
+Jeho Park (CMC, QCL Director)
 
 ## Teaching Assistants: 
-Jeho Park (CMC, QCL Director), Lan Phan (CMC '19), Bruno Youn (CMC '19)
+Lan Phan (CMC '19), Bruno Youn (CMC '19)
 
 ## Registration
 - Part 1: [Friday, April 26th from 1:30 PM to 3:30 PM](https://intro-to-ml-kaggle-part1.eventbrite.com/)
