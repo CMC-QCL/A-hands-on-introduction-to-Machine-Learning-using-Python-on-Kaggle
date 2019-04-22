@@ -5,7 +5,7 @@ This series is a condensed version of the previous four-session [Machine Learnin
 
 ## Instructor: 
 Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)   
-Jeho Park (CMC, QCL Director)
+Jeho Park (QCL Director, Claremont McKenna College)
 
 ## Teaching Assistants: 
 Lan Phan (CMC '19), Bruno Youn (CMC '19)
