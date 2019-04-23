@@ -14,9 +14,9 @@ Topics to be covered in the first session:
 - Basic plots
 - Correlation among features
 - Basic operations such as dropping rows/columns, setting index, replacing values of a column using a dictionary, etc.
-* Split-apply-combine operations by grouping rows of a dataframe
-* Encoding categorical variables
-* Concatentating and merging dataframes
+- Split-apply-combine operations by grouping rows of a dataframe
+- Encoding categorical variables
+- Concatentating and merging dataframes
 
 ## Instructor: 
 Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)   
