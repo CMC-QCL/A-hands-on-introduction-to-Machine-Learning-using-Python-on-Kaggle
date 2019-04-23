@@ -42,13 +42,13 @@ Q: Should I register for both part 1 and part 2 workshops?
 > We recommend you to attend both workshops. Part 1 workshop will be more hands-on and cover the data exploration, data manipulation, and feature engineering using `pandas`. It is a precursor to Part 2 that will cover machine learning concepts along with model building using `scikit-learn`.
 
 Q: Should I bring my own laptop? 
-> For CMC folk: No, you don’t have to. RN12 has over 50 Windows computers and you can log in the computers using your CMC credential. For non-CMC folks, yes, you should bring your laptop. We can also provide a loaner laptop if you need one.
+> For CMC folk: No, you don’t have to. But we encourage you to bring your laptop to download all the workshop materials on it. You can also use lab computers. RN12 has over 50 Windows computers and you can log in the computers using your CMC credential. For non-CMC folks, yes, you should bring your laptop. We can also provide a loaner laptop if you need one.
 
 Q: How can I cancel my ticket?
 > Your confirmation ticket email has a link, “View and manage your order online.” Follow that link and cancel your ticket.
 
 Q: Should I be affiliated with CMC? 
-> Yes. The workshops will also be open to all Claremont Colleges if there are more seats left.
+> No, the workshops are open to all Claremont Colleges.
 
 Q: What is Kaggle?
 > Kaggle is a cloud platform for data science and machine learning community. Competitions, data sets, and computing resources are available for free. Check it out -- [Kaggle website](http://www.kaggle.com).
