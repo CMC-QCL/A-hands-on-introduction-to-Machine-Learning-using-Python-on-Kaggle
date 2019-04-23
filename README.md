@@ -3,6 +3,21 @@ The workshop series is designed with a focus on the practical aspects of machine
 
 This series is a condensed version of the previous four-session [Machine Learning workshop series at Harvey Mudd College](http://www.aashitak.com/ML-Workshops/) by the same instructor. 
 
+Topics to be covered in the first session:  
+- Pandas dataframes as the data structure for datasets
+- Converting csv files to dataframes 
+- Slicing and indexing dataframes using conditionals as well as iloc and loc methods.
+- Statistical summary and exploration of dataframes
+- Detecting and filling missing values in the dataframes 
+- Regular expressions for data extraction
+- Feature engineering such as creating new features 
+- Basic plots
+- Correlation among features
+- Basic operations such as dropping rows/columns, setting index, replacing values of a column using a dictionary, etc.
+* Split-apply-combine operations by grouping rows of a dataframe
+* Encoding categorical variables
+* Concatentating and merging dataframes
+
 ## Instructor: 
 Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)   
 Jeho Park (QCL Director, Claremont McKenna College)
