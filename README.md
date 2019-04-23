@@ -27,7 +27,7 @@ Q: Should I register for both part 1 and part 2 workshops?
 > We recommend you to attend both workshops. Part 1 workshop will be more hands-on and cover the data exploration, data manipulation, and feature engineering using `pandas`. It is a precursor to Part 2 that will cover machine learning concepts along with model building using `scikit-learn`.
 
 Q: Should I bring my own laptop? 
-> For CMC fork: No, you don’t have to. RN12 has over 50 Windows computers and you can log in the computers using your CMC credential. For non-CMC forks, yes, you should bring your laptop. We can also provide a loaner laptop if you need one.
+> For CMC folk: No, you don’t have to. RN12 has over 50 Windows computers and you can log in the computers using your CMC credential. For non-CMC folks, yes, you should bring your laptop. We can also provide a loaner laptop if you need one.
 
 Q: How can I cancel my ticket?
 > Your confirmation ticket email has a link, “View and manage your order online.” Follow that link and cancel your ticket.
