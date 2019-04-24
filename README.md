@@ -12,11 +12,11 @@ Topics to be covered in the first session:
 - Regular expressions for data extraction
 - Feature engineering such as creating new features 
 - Basic plots
-- Correlation among features
 - Basic operations such as dropping rows/columns, setting index, replacing values of a column using a dictionary, etc.
 - Split-apply-combine operations by grouping rows of a dataframe
 - Encoding categorical variables
-- Concatentating and merging dataframes
+- Correlation among features (optional)
+- Merging dataframes (optional)
 
 ## Instructor: 
 Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)   
