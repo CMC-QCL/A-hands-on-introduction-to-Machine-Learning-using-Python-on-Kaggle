@@ -18,6 +18,21 @@ Topics to be covered in the first session:
 - Correlation among features (optional)
 - Merging dataframes (optional)
 
+Topics to be covered in the second session:  
+- Linear Regression 
+- Logistic Classifier 
+- Overfitting and underfitting 
+- k-fold Cross-validation 
+- Dimensionality reduction (Optional)
+    - Principal Component Analysis (PCA)
+- Evaluation metrics for classification 
+    - Classification accuracy
+    - Confusion matrix
+    - Decision Threshold
+    - Precision and Recall
+    - F1 score
+    - Area Under ROC curve
+    
 ## Instructor: 
 Aashita Kesarwani (Scientific Computing Specialist, Harvey Mudd College)   
 Jeho Park (QCL Director, Claremont McKenna College)
